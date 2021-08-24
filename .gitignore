@@ -1,0 +1,4 @@
+# Project exclude paths
+/request/target/
+/response/target/
+/target/
